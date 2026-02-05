@@ -1,0 +1,158 @@
+{
+  "budget_property": {
+    "property_name": "Budget Property - Bend, OR",
+    "price": "$1,695/month",
+    "specs": "2 Bed / 2 Bath / 1,073 sq ft",
+    "address": "1073 NE Hidden Valley Dr #2",
+    "slides": [
+      {
+        "number": 1,
+        "type": "hero",
+        "nebula_file": "images/generated_c121c5ee.png",
+        "github_path": "images/budget/01-hero.png",
+        "description": "Exterior hero shot with price and address overlay"
+      },
+      {
+        "number": 2,
+        "type": "kitchen",
+        "nebula_file": "images/generated_6d1d0d7d.jpeg",
+        "github_path": "images/budget/02-kitchen.jpeg",
+        "description": "Modern kitchen with white cabinets and stainless appliances"
+      },
+      {
+        "number": 3,
+        "type": "living",
+        "nebula_file": "images/generated_1ea88d01.jpeg",
+        "github_path": "images/budget/03-living.jpeg",
+        "description": "Comfortable living space with natural light"
+      },
+      {
+        "number": 4,
+        "type": "bedroom",
+        "nebula_file": "images/generated_1c8a95ed.jpeg",
+        "github_path": "images/budget/04-bedroom.jpeg",
+        "description": "Spacious bedroom"
+      },
+      {
+        "number": 5,
+        "type": "bathroom",
+        "nebula_file": "images/generated_c239114c.png",
+        "github_path": "images/budget/05-bathroom.png",
+        "description": "Full bathroom with tub/shower combo"
+      },
+      {
+        "number": 6,
+        "type": "features",
+        "nebula_file": "images/generated_04ddc36a.png",
+        "github_path": "images/budget/06-features.png",
+        "description": "Property features infographic"
+      },
+      {
+        "number": 7,
+        "type": "outdoor",
+        "nebula_file": "images/generated_fa7c7e34.png",
+        "github_path": "images/budget/07-outdoor.png",
+        "description": "Low-maintenance outdoor living space"
+      },
+      {
+        "number": 8,
+        "type": "garage",
+        "nebula_file": "images/generated_580f8776.png",
+        "github_path": "images/budget/08-garage.png",
+        "description": "Single car garage"
+      },
+      {
+        "number": 9,
+        "type": "agent",
+        "nebula_file": "images/generated_0932cb99.png",
+        "github_path": "images/budget/09-agent.png",
+        "description": "Meet Leesa - leasing agent contact"
+      },
+      {
+        "number": 10,
+        "type": "cta",
+        "nebula_file": "images/generated_515c2c23.jpeg",
+        "github_path": "images/budget/10-cta.jpeg",
+        "description": "Call-to-action with contact buttons"
+      }
+    ]
+  },
+  "premium_property": {
+    "property_name": "Premium Property - Redmond, OR",
+    "price": "$2,695/month",
+    "specs": "3 Bed / 2.5 Bath / 1,696 sq ft",
+    "address": "868 NW 19th Street",
+    "slides": [
+      {
+        "number": 1,
+        "type": "hero",
+        "nebula_file": "images/generated_57f7e395.jpeg",
+        "github_path": "images/premium/01-hero.jpeg",
+        "description": "Exterior hero shot of modern two-story home"
+      },
+      {
+        "number": 2,
+        "type": "kitchen",
+        "nebula_file": "images/generated_dab3714b.png",
+        "github_path": "images/premium/02-kitchen.png",
+        "description": "Gourmet kitchen with white shaker cabinets and quartz countertops"
+      },
+      {
+        "number": 3,
+        "type": "living",
+        "nebula_file": "images/generated_7e7cb8dd.jpeg",
+        "github_path": "images/premium/03-living.jpeg",
+        "description": "Open concept living with vaulted ceilings"
+      },
+      {
+        "number": 4,
+        "type": "bedroom",
+        "nebula_file": "images/generated_eadfe2f6.jpeg",
+        "github_path": "images/premium/04-bedroom.jpeg",
+        "description": "Master suite with walk-in closet"
+      },
+      {
+        "number": 5,
+        "type": "bathroom",
+        "nebula_file": "images/generated_3e449f0a.jpeg",
+        "github_path": "images/premium/05-bathroom.jpeg",
+        "description": "Luxury master bath with dual vanity"
+      },
+      {
+        "number": 6,
+        "type": "features",
+        "nebula_file": "images/generated_0ce06494.jpeg",
+        "github_path": "images/premium/06-features.jpeg",
+        "description": "Premium features infographic"
+      },
+      {
+        "number": 7,
+        "type": "outdoor",
+        "nebula_file": "images/generated_0a74d56c.jpeg",
+        "github_path": "images/premium/07-outdoor.jpeg",
+        "description": "Additional bedroom showcasing space"
+      },
+      {
+        "number": 8,
+        "type": "garage",
+        "nebula_file": "images/generated_89a67568.jpeg",
+        "github_path": "images/premium/08-garage.jpeg",
+        "description": "2-car garage interior"
+      },
+      {
+        "number": 9,
+        "type": "agent",
+        "nebula_file": "images/generated_2c0c8bdb.jpeg",
+        "github_path": "images/premium/09-agent.jpeg",
+        "description": "Schedule tour with Leesa - contact info"
+      },
+      {
+        "number": 10,
+        "type": "cta",
+        "nebula_file": "images/generated_d01453d8.png",
+        "github_path": "images/premium/10-cta.png",
+        "description": "Luxury home call-to-action with virtual tour"
+      }
+    ]
+  }
+}
